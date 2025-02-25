@@ -1,6 +1,6 @@
 # Project 00 Definition
 
-Get 3 whole numbers from user and print them ascending order.
+Get 3 whole numbers from user and print them in ascending order.
 
 ## Getting Started
 
