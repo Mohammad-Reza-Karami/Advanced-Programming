@@ -1,3 +1,3 @@
-# Fundamentals-of-Computer-and-Programming
-Fundamentals of Computer and Programming - Razi University (2024 - 2025) <br/>
+# Advanced-Programming
+Advanced-Programming - Razi University (2025 - 2026) <br/>
 The projects of this class are in Java language. <br/>
